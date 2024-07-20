@@ -1,0 +1,375 @@
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\CourseProgram — копия\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram копия\CourseProgram копия\CourseProgram\obj\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\CourseProgram конец\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\Курсовая\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\курсачик\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe.config
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\CourseProgram.pdb
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Buffers.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Memory.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Buffers.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Memory.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Form1.resources
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.Properties.Resources.resources
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.csproj.CopyComplete
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.exe
+C:\Users\Anton\source\repos\Постройка графиков\CourseProgram\CourseProgram\obj\Debug\CourseProgram.pdb
